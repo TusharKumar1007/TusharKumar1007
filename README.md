@@ -4,5 +4,5 @@
 Just a passionate developer looking to enhance my workflow, build efficient projects, and create useful software. 
 
 ### About Me: 
-- 🔭 I’m currently working on: Tab Leads(web extention) [tab-leads](https://github.com/TusharKumar1007/tab-leads)
-- 🌱 I’m learning: JavaScript, Python
+- 🔭 I’m currently working on: Task Achiver fullstack webapp [Task Manager](https://github.com/TusharKumar1007/react_redux_taskmanager)
+- 🌱 I’m learning: Next.js
